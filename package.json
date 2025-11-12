@@ -1,7 +1,7 @@
 {
-  "name": "JAWAD-MD",
+  "name": "亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄",
   "version": "7.0.0",
-  "description": "JAWAD-MD, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
+  "description": "JISKANI-MD, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
   "--engines": {
@@ -9,17 +9,17 @@
   },
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-MD",
-    "stop": "pm2 stop JAWAD-MD",
-    "restart": "pm2 restart JAWAD-MD"
+    "stop": "pm2 stop JISKANI-MD",
+    "restart": "pm2 restart JISKANI-MD"
   },
   "keywords": [
-    "JAWAD-MD",
-    "JAWAD-MD",
-    "JAWAD-XMD",
+    "JISKANI-MD",
+    "JISKANI-MD",
+    "JISKANI-XMD",
     "whatsapp-bot",
-    "jawad-api"
+    "jiskani-api"
   ],
-  "author": "JawadTechXD",
+  "author": "亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄",
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
